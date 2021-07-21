@@ -1,2 +1,2 @@
 # Simon-Game
-Have fun playing the much popular simon game
+Have fun playing the simon game.
